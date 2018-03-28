@@ -13,6 +13,12 @@ namespace ProdXdia_Conv
     {
         EAC_Framework.eac_sqlConnector connection, connection2;
         EAC_Framework.eac_dataGridView gridView,gridview,gridsview,gridVIEW;
+
+        private void CONVERSIONDIARIA_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
         public CONVERSION_DIARIA()
         {
             InitializeComponent();
