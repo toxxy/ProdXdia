@@ -7,3 +7,12 @@ C:\Users\cris-\Desktop\ProdXdia-master\ProdXdia-master\ProdXdia_Conv\ProdXdia_Co
 C:\Users\cris-\Desktop\ProdXdia-master\ProdXdia-master\ProdXdia_Conv\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.exe
 C:\Users\cris-\Desktop\ProdXdia-master\ProdXdia-master\ProdXdia_Conv\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.pdb
 C:\Users\cris-\Desktop\ProdXdia-master\ProdXdia-master\ProdXdia_Conv\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.CONVERSION_DIARIA.resources
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\bin\Debug\ProdXdia_Conv.exe
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\bin\Debug\ProdXdia_Conv.pdb
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.csprojResolveAssemblyReference.cache
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.CONVERSION_DIARIA.resources
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.Properties.Resources.resources
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.csproj.GenerateResource.cache
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.csproj.CoreCompileInputs.cache
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.exe
+C:\Users\carde\Dropbox\Work\Duro Hilex Polix\Trabajos Duro\Rio-Bravo\Conversion\ProdxDia\ProdXdia\ProdXdia_Conv\ProdXdia_Conv\obj\Debug\ProdXdia_Conv.pdb

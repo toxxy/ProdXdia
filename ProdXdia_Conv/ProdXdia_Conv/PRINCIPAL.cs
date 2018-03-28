@@ -20,9 +20,9 @@ namespace ProdXdia_Conv
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            connection = new EAC_Framework.eac_sqlConnector("ASUS-ROG", "ProdXdia", "Prodxdia", "cris", "12345678");
-            connection2 = new EAC_Framework.eac_sqlConnector("ASUS-ROG", "ProdXdia", "repomanodeobra", "cris", "12345678");
-          
+            connection = new EAC_Framework.eac_sqlConnector("192.168.1.202", "ProdXdia", "Prodxdia", "cris", "12345678");
+            connection2 = new EAC_Framework.eac_sqlConnector("192.168.1.202", "ProdXdia", "repomanodeobra", "cris", "12345678");
+          //HOLALALALL
             gridView = new EAC_Framework.eac_dataGridView(ref CONVERSIONDIARIA, ref connection);
             gridView.fillGridFromSqlSelect("select * from prodxdia", ref connection);
 
